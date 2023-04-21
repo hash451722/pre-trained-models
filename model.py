@@ -1,5 +1,3 @@
-import pathlib
-
 import torch
 import torchvision
 

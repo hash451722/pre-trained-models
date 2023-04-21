@@ -63,9 +63,9 @@ def args_():
 
 class Args():
     def __init__(self) -> None:
-        self.batch_size = 8
-        self.test_batch_size = 32
-        self.epochs = 3
+        self.batch_size = 64
+        self.test_batch_size = 64
+        self.epochs = 30
         self.lr = 1.0
         self.gamma = 0.7
         self.log_interval = 10
