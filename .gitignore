@@ -130,3 +130,6 @@ dmypy.json
 
 # vscode
 .vscode/
+
+# kkanji2
+./kkanji2
